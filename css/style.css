@@ -1,0 +1,24 @@
+h1 {
+	color: black;
+	background: orangered;
+}
+h2 {
+	color: lightpink;
+	background: black;
+}
+#Tourist_History  {
+	color: indigo;
+	background: lightgreen;
+}
+#Beacon {
+	color: lightseagreen;
+	background: lightcyan;
+}
+#Gameshow {
+	color: linen;
+	background: mediumblue;
+}
+#False_Alarm {
+	color: gold;
+	background: red;
+}
